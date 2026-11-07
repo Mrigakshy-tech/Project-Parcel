@@ -65,8 +65,6 @@ A cost-based threshold flagged approximately 86.4% of the validation set under i
 ## What is not tested
 The helper tests do not verify the full Colab environment, cloud downloads, exact model serialization compatibility, real-world data contracts, causal validity, or production latency. Those require an integration environment and representative operational data.
 
-## AI assistance disclosure
-I used ChatGPT as a coding and writing assistant to help debug pandas/scikit-learn dtype compatibility, structure documentation, and draft explanations/tests. I reviewed the outputs and remain responsible for understanding, verifying, and explaining the implementation. I will disclose any additional tools actually used.
 
-## Reproducibility
-Record the Python and package versions shown by the notebook, the notebook execution date, and the Git commit hash used for the final run. Re-run from a clean runtime before submission.
+
+
